@@ -4,7 +4,7 @@ This repo provides a managed SageMaker jupyter notebook with a number of noteboo
 
 ## Quickstart
 
-To get the AWS Research Workshop Notebook up and running in your own AWS account, follow these steps (if you do not have an AWS account, please see [How do I create and activate a new Amazon Web Services account?](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)):
+To get the AWS Research Workshop Notebook up and running in our AWS account, follow these steps (hopefully everyone has an AWS account by now, please see [How do I create and activate a new Amazon Web Services account?](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)):
 
 1. Log into the [AWS console](https://console.aws.amazon.com/) if you are not already
 2. Choose **Launch Stack**  to open the AWS CloudFormation console and create a new stack.  
